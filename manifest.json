@@ -1,0 +1,27 @@
+{
+  "name": "تجربة الري",
+  "short_name": "تجربة الري",
+  "description": "تطبيق تجربة الري — يعمل بدون إنترنت بعد أول فتح",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F0F4F0",
+  "theme_color": "#1B5E20",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
